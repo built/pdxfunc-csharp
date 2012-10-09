@@ -19,3 +19,5 @@ Mono, an open-source .Net implementation
 http://www.mono-project.com
 
 
+(Talk happened Oct. 08, 2012)
+
